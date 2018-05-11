@@ -1,0 +1,11 @@
+/Users/oicram/faculdade/poo_c#/app4-int/obj/Debug/netcoreapp2.0/app4-int.csprojAssemblyReference.cache
+/Users/oicram/faculdade/poo_c#/app4-int/obj/Debug/netcoreapp2.0/app4-int.csproj.CoreCompileInputs.cache
+/Users/oicram/faculdade/poo_c#/app4-int/obj/Debug/netcoreapp2.0/app4-int.AssemblyInfoInputs.cache
+/Users/oicram/faculdade/poo_c#/app4-int/obj/Debug/netcoreapp2.0/app4-int.AssemblyInfo.cs
+/Users/oicram/faculdade/poo_c#/app4-int/bin/Debug/netcoreapp2.0/app4-int.deps.json
+/Users/oicram/faculdade/poo_c#/app4-int/bin/Debug/netcoreapp2.0/app4-int.runtimeconfig.json
+/Users/oicram/faculdade/poo_c#/app4-int/bin/Debug/netcoreapp2.0/app4-int.runtimeconfig.dev.json
+/Users/oicram/faculdade/poo_c#/app4-int/bin/Debug/netcoreapp2.0/app4-int.dll
+/Users/oicram/faculdade/poo_c#/app4-int/bin/Debug/netcoreapp2.0/app4-int.pdb
+/Users/oicram/faculdade/poo_c#/app4-int/obj/Debug/netcoreapp2.0/app4-int.dll
+/Users/oicram/faculdade/poo_c#/app4-int/obj/Debug/netcoreapp2.0/app4-int.pdb

@@ -1,4 +1,2 @@
-*/bin
-.vscode/ 
-Teste/bin
-app3/bin
+**/bin
+.vscode/
