@@ -1,0 +1,11 @@
+/Users/oicram/faculdade/poo_c#/dadosInline/bin/Debug/netcoreapp2.0/dadosInline.deps.json
+/Users/oicram/faculdade/poo_c#/dadosInline/bin/Debug/netcoreapp2.0/dadosInline.runtimeconfig.json
+/Users/oicram/faculdade/poo_c#/dadosInline/bin/Debug/netcoreapp2.0/dadosInline.runtimeconfig.dev.json
+/Users/oicram/faculdade/poo_c#/dadosInline/bin/Debug/netcoreapp2.0/dadosInline.dll
+/Users/oicram/faculdade/poo_c#/dadosInline/bin/Debug/netcoreapp2.0/dadosInline.pdb
+/Users/oicram/faculdade/poo_c#/dadosInline/obj/Debug/netcoreapp2.0/dadosInline.csprojAssemblyReference.cache
+/Users/oicram/faculdade/poo_c#/dadosInline/obj/Debug/netcoreapp2.0/dadosInline.csproj.CoreCompileInputs.cache
+/Users/oicram/faculdade/poo_c#/dadosInline/obj/Debug/netcoreapp2.0/dadosInline.AssemblyInfoInputs.cache
+/Users/oicram/faculdade/poo_c#/dadosInline/obj/Debug/netcoreapp2.0/dadosInline.AssemblyInfo.cs
+/Users/oicram/faculdade/poo_c#/dadosInline/obj/Debug/netcoreapp2.0/dadosInline.dll
+/Users/oicram/faculdade/poo_c#/dadosInline/obj/Debug/netcoreapp2.0/dadosInline.pdb
