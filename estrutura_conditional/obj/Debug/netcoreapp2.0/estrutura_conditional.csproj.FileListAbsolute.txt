@@ -1,0 +1,11 @@
+/Users/oicram/faculdade/poo_c#/estrutura_conditional/obj/Debug/netcoreapp2.0/estrutura_conditional.csprojAssemblyReference.cache
+/Users/oicram/faculdade/poo_c#/estrutura_conditional/obj/Debug/netcoreapp2.0/estrutura_conditional.csproj.CoreCompileInputs.cache
+/Users/oicram/faculdade/poo_c#/estrutura_conditional/obj/Debug/netcoreapp2.0/estrutura_conditional.AssemblyInfoInputs.cache
+/Users/oicram/faculdade/poo_c#/estrutura_conditional/obj/Debug/netcoreapp2.0/estrutura_conditional.AssemblyInfo.cs
+/Users/oicram/faculdade/poo_c#/estrutura_conditional/bin/Debug/netcoreapp2.0/estrutura_conditional.deps.json
+/Users/oicram/faculdade/poo_c#/estrutura_conditional/bin/Debug/netcoreapp2.0/estrutura_conditional.runtimeconfig.json
+/Users/oicram/faculdade/poo_c#/estrutura_conditional/bin/Debug/netcoreapp2.0/estrutura_conditional.runtimeconfig.dev.json
+/Users/oicram/faculdade/poo_c#/estrutura_conditional/bin/Debug/netcoreapp2.0/estrutura_conditional.dll
+/Users/oicram/faculdade/poo_c#/estrutura_conditional/bin/Debug/netcoreapp2.0/estrutura_conditional.pdb
+/Users/oicram/faculdade/poo_c#/estrutura_conditional/obj/Debug/netcoreapp2.0/estrutura_conditional.dll
+/Users/oicram/faculdade/poo_c#/estrutura_conditional/obj/Debug/netcoreapp2.0/estrutura_conditional.pdb
