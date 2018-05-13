@@ -1,0 +1,11 @@
+/Users/oicram/faculdade/poo_c#/estrutura_while/obj/Debug/netcoreapp2.0/estrutura_while.csprojAssemblyReference.cache
+/Users/oicram/faculdade/poo_c#/estrutura_while/obj/Debug/netcoreapp2.0/estrutura_while.csproj.CoreCompileInputs.cache
+/Users/oicram/faculdade/poo_c#/estrutura_while/obj/Debug/netcoreapp2.0/estrutura_while.AssemblyInfoInputs.cache
+/Users/oicram/faculdade/poo_c#/estrutura_while/obj/Debug/netcoreapp2.0/estrutura_while.AssemblyInfo.cs
+/Users/oicram/faculdade/poo_c#/estrutura_while/bin/Debug/netcoreapp2.0/estrutura_while.deps.json
+/Users/oicram/faculdade/poo_c#/estrutura_while/bin/Debug/netcoreapp2.0/estrutura_while.runtimeconfig.json
+/Users/oicram/faculdade/poo_c#/estrutura_while/bin/Debug/netcoreapp2.0/estrutura_while.runtimeconfig.dev.json
+/Users/oicram/faculdade/poo_c#/estrutura_while/bin/Debug/netcoreapp2.0/estrutura_while.dll
+/Users/oicram/faculdade/poo_c#/estrutura_while/bin/Debug/netcoreapp2.0/estrutura_while.pdb
+/Users/oicram/faculdade/poo_c#/estrutura_while/obj/Debug/netcoreapp2.0/estrutura_while.dll
+/Users/oicram/faculdade/poo_c#/estrutura_while/obj/Debug/netcoreapp2.0/estrutura_while.pdb
