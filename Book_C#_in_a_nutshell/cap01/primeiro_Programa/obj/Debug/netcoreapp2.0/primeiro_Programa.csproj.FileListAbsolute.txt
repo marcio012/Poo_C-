@@ -1,0 +1,11 @@
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/primeiro_Programa/bin/Debug/netcoreapp2.0/primeiro_Programa.deps.json
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/primeiro_Programa/bin/Debug/netcoreapp2.0/primeiro_Programa.runtimeconfig.json
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/primeiro_Programa/bin/Debug/netcoreapp2.0/primeiro_Programa.runtimeconfig.dev.json
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/primeiro_Programa/bin/Debug/netcoreapp2.0/primeiro_Programa.dll
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/primeiro_Programa/bin/Debug/netcoreapp2.0/primeiro_Programa.pdb
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/primeiro_Programa/obj/Debug/netcoreapp2.0/primeiro_Programa.csprojAssemblyReference.cache
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/primeiro_Programa/obj/Debug/netcoreapp2.0/primeiro_Programa.csproj.CoreCompileInputs.cache
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/primeiro_Programa/obj/Debug/netcoreapp2.0/primeiro_Programa.AssemblyInfoInputs.cache
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/primeiro_Programa/obj/Debug/netcoreapp2.0/primeiro_Programa.AssemblyInfo.cs
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/primeiro_Programa/obj/Debug/netcoreapp2.0/primeiro_Programa.dll
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/primeiro_Programa/obj/Debug/netcoreapp2.0/primeiro_Programa.pdb

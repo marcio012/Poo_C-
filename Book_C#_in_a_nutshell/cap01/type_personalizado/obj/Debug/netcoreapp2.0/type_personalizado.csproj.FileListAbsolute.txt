@@ -1,0 +1,11 @@
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/type_personalizado/obj/Debug/netcoreapp2.0/type_personalizado.csprojAssemblyReference.cache
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/type_personalizado/obj/Debug/netcoreapp2.0/type_personalizado.csproj.CoreCompileInputs.cache
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/type_personalizado/obj/Debug/netcoreapp2.0/type_personalizado.AssemblyInfoInputs.cache
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/type_personalizado/obj/Debug/netcoreapp2.0/type_personalizado.AssemblyInfo.cs
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/type_personalizado/bin/Debug/netcoreapp2.0/type_personalizado.deps.json
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/type_personalizado/bin/Debug/netcoreapp2.0/type_personalizado.runtimeconfig.json
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/type_personalizado/bin/Debug/netcoreapp2.0/type_personalizado.runtimeconfig.dev.json
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/type_personalizado/bin/Debug/netcoreapp2.0/type_personalizado.dll
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/type_personalizado/bin/Debug/netcoreapp2.0/type_personalizado.pdb
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/type_personalizado/obj/Debug/netcoreapp2.0/type_personalizado.dll
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/type_personalizado/obj/Debug/netcoreapp2.0/type_personalizado.pdb
