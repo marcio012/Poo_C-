@@ -1,0 +1,11 @@
+/Users/oicram/faculdade/poo_c#/estrutura_for/obj/Debug/netcoreapp2.0/estrutura_for.csprojAssemblyReference.cache
+/Users/oicram/faculdade/poo_c#/estrutura_for/obj/Debug/netcoreapp2.0/estrutura_for.csproj.CoreCompileInputs.cache
+/Users/oicram/faculdade/poo_c#/estrutura_for/obj/Debug/netcoreapp2.0/estrutura_for.AssemblyInfoInputs.cache
+/Users/oicram/faculdade/poo_c#/estrutura_for/obj/Debug/netcoreapp2.0/estrutura_for.AssemblyInfo.cs
+/Users/oicram/faculdade/poo_c#/estrutura_for/bin/Debug/netcoreapp2.0/estrutura_for.deps.json
+/Users/oicram/faculdade/poo_c#/estrutura_for/bin/Debug/netcoreapp2.0/estrutura_for.runtimeconfig.json
+/Users/oicram/faculdade/poo_c#/estrutura_for/bin/Debug/netcoreapp2.0/estrutura_for.runtimeconfig.dev.json
+/Users/oicram/faculdade/poo_c#/estrutura_for/bin/Debug/netcoreapp2.0/estrutura_for.dll
+/Users/oicram/faculdade/poo_c#/estrutura_for/bin/Debug/netcoreapp2.0/estrutura_for.pdb
+/Users/oicram/faculdade/poo_c#/estrutura_for/obj/Debug/netcoreapp2.0/estrutura_for.dll
+/Users/oicram/faculdade/poo_c#/estrutura_for/obj/Debug/netcoreapp2.0/estrutura_for.pdb
