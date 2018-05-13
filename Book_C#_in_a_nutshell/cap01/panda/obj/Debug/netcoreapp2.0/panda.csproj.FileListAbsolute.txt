@@ -1,0 +1,11 @@
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/panda/obj/Debug/netcoreapp2.0/panda.csprojAssemblyReference.cache
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/panda/obj/Debug/netcoreapp2.0/panda.csproj.CoreCompileInputs.cache
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/panda/obj/Debug/netcoreapp2.0/panda.AssemblyInfoInputs.cache
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/panda/obj/Debug/netcoreapp2.0/panda.AssemblyInfo.cs
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/panda/bin/Debug/netcoreapp2.0/panda.deps.json
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/panda/bin/Debug/netcoreapp2.0/panda.runtimeconfig.json
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/panda/bin/Debug/netcoreapp2.0/panda.runtimeconfig.dev.json
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/panda/bin/Debug/netcoreapp2.0/panda.dll
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/panda/bin/Debug/netcoreapp2.0/panda.pdb
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/panda/obj/Debug/netcoreapp2.0/panda.dll
+/Users/oicram/faculdade/poo_c#/Book_C#_in_a_nutshell/cap01/panda/obj/Debug/netcoreapp2.0/panda.pdb
