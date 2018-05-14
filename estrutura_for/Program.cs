@@ -22,8 +22,8 @@ namespace estrutura_for
                 {
                     Console.WriteLine("não existe");
                 } else {
-                    resultado = x/y;
-                    Console.WriteLine(resultado.ToString("F3", CultureInfo.InstalledUICulture));
+                    resultado = x / y;
+                    Console.WriteLine(resultado.ToString("F3", CultureInfo.InvariantCulture));
                 }
             
             }
