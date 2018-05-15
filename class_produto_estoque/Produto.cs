@@ -14,12 +14,33 @@ namespace class_produto_estoque
         public override string ToString() 
         {
             // return base.ToString();
-            return nome
-                + ", "
-                + preco.ToString("F2", CultureInfo.InvariantCulture)
-                + ", "
-                + quantidadeEmEstoque
-                + ".";
+            return "Dados do Produto "
+                + nome + ", "
+                + "R$ " + preco.ToString("F2", CultureInfo.InvariantCulture) + ", "
+                + quantidadeEmEstoque + " unidades, "
+                + "Total: " + valorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture) + ".";
+        }
+
+
+        public double valorTotalEmEstoque()
+        {
+            return preco * quantidadeEmEstoque;
+        }
+
+        public void realizarEntrada(int quantidade)
+        {
+            quantidadeEmEstoque = quantidadeEmEstoque + quantidade;
+        }
+
+        public void realizarSaida(int quantidade)
+        {
+            if (quantidadeEmEstoque > quantidade)
+            {
+                quantidadeEmEstoque = quantidadeEmEstoque - quantidade;
+            } else {
+                Console.WriteLine("Estoque insuficiente!");
+            }
+            
         }
 
     }

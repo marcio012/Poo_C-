@@ -21,11 +21,30 @@ namespace class_produto_estoque
             P.quantidadeEmEstoque = int.Parse(Console.ReadLine());
 
             // imprime na tela
-            Console.WriteLine("Você Digitou: " 
-                                + P.nome + ", " + P.preco.ToString("F2", CultureInfo.InvariantCulture) 
-                                + ", " + P.quantidadeEmEstoque + ".");
+            // Console.WriteLine("Você Digitou: " 
+                                // + P.nome + ", " + P.preco.ToString("F2", CultureInfo.InvariantCulture) 
+                                // + ", " + P.quantidadeEmEstoque + ".");
 
             Console.WriteLine("Você Digitou: " + P);
+
+            Console.WriteLine();
+            Console.WriteLine("Digite a quantidade de produtos que entraram no estoque: "); 
+            int qte = int.Parse(Console.ReadLine());
+            P.realizarEntrada(qte);
+    
+            Console.WriteLine();
+            Console.WriteLine("Dados autualizados: " + P);
+    
+            Console.WriteLine();
+            Console.WriteLine("Digite a quantidade de produtos que saíram do estoque: "); 
+            qte = int.Parse(Console.ReadLine());
+            P.realizarSaida(qte);
+
+
+            Console.WriteLine();
+            Console.WriteLine("Dados autualizados: " + P);
+            
+            
             Console.ReadLine();                                
 
             
