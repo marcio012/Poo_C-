@@ -1,0 +1,11 @@
+/Users/oicram/faculdade/poo_c#/poo_conceitos_udemy/bin/Debug/netcoreapp2.0/poo_conceitos_udemy.deps.json
+/Users/oicram/faculdade/poo_c#/poo_conceitos_udemy/bin/Debug/netcoreapp2.0/poo_conceitos_udemy.runtimeconfig.json
+/Users/oicram/faculdade/poo_c#/poo_conceitos_udemy/bin/Debug/netcoreapp2.0/poo_conceitos_udemy.runtimeconfig.dev.json
+/Users/oicram/faculdade/poo_c#/poo_conceitos_udemy/bin/Debug/netcoreapp2.0/poo_conceitos_udemy.dll
+/Users/oicram/faculdade/poo_c#/poo_conceitos_udemy/bin/Debug/netcoreapp2.0/poo_conceitos_udemy.pdb
+/Users/oicram/faculdade/poo_c#/poo_conceitos_udemy/obj/Debug/netcoreapp2.0/poo_conceitos_udemy.csprojAssemblyReference.cache
+/Users/oicram/faculdade/poo_c#/poo_conceitos_udemy/obj/Debug/netcoreapp2.0/poo_conceitos_udemy.csproj.CoreCompileInputs.cache
+/Users/oicram/faculdade/poo_c#/poo_conceitos_udemy/obj/Debug/netcoreapp2.0/poo_conceitos_udemy.AssemblyInfoInputs.cache
+/Users/oicram/faculdade/poo_c#/poo_conceitos_udemy/obj/Debug/netcoreapp2.0/poo_conceitos_udemy.AssemblyInfo.cs
+/Users/oicram/faculdade/poo_c#/poo_conceitos_udemy/obj/Debug/netcoreapp2.0/poo_conceitos_udemy.dll
+/Users/oicram/faculdade/poo_c#/poo_conceitos_udemy/obj/Debug/netcoreapp2.0/poo_conceitos_udemy.pdb

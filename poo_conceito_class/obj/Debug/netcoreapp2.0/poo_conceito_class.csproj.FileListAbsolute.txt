@@ -1,0 +1,11 @@
+/Users/oicram/faculdade/poo_c#/poo_conceito_class/obj/Debug/netcoreapp2.0/poo_conceito_class.csprojAssemblyReference.cache
+/Users/oicram/faculdade/poo_c#/poo_conceito_class/obj/Debug/netcoreapp2.0/poo_conceito_class.csproj.CoreCompileInputs.cache
+/Users/oicram/faculdade/poo_c#/poo_conceito_class/obj/Debug/netcoreapp2.0/poo_conceito_class.AssemblyInfoInputs.cache
+/Users/oicram/faculdade/poo_c#/poo_conceito_class/obj/Debug/netcoreapp2.0/poo_conceito_class.AssemblyInfo.cs
+/Users/oicram/faculdade/poo_c#/poo_conceito_class/bin/Debug/netcoreapp2.0/poo_conceito_class.deps.json
+/Users/oicram/faculdade/poo_c#/poo_conceito_class/bin/Debug/netcoreapp2.0/poo_conceito_class.runtimeconfig.json
+/Users/oicram/faculdade/poo_c#/poo_conceito_class/bin/Debug/netcoreapp2.0/poo_conceito_class.runtimeconfig.dev.json
+/Users/oicram/faculdade/poo_c#/poo_conceito_class/bin/Debug/netcoreapp2.0/poo_conceito_class.dll
+/Users/oicram/faculdade/poo_c#/poo_conceito_class/bin/Debug/netcoreapp2.0/poo_conceito_class.pdb
+/Users/oicram/faculdade/poo_c#/poo_conceito_class/obj/Debug/netcoreapp2.0/poo_conceito_class.dll
+/Users/oicram/faculdade/poo_c#/poo_conceito_class/obj/Debug/netcoreapp2.0/poo_conceito_class.pdb

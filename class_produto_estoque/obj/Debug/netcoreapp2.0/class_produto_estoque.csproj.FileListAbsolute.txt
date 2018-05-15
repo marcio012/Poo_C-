@@ -1,0 +1,11 @@
+/Users/oicram/faculdade/poo_c#/class_produto_estoque/obj/Debug/netcoreapp2.0/class_produto_estoque.csprojAssemblyReference.cache
+/Users/oicram/faculdade/poo_c#/class_produto_estoque/obj/Debug/netcoreapp2.0/class_produto_estoque.csproj.CoreCompileInputs.cache
+/Users/oicram/faculdade/poo_c#/class_produto_estoque/obj/Debug/netcoreapp2.0/class_produto_estoque.AssemblyInfoInputs.cache
+/Users/oicram/faculdade/poo_c#/class_produto_estoque/obj/Debug/netcoreapp2.0/class_produto_estoque.AssemblyInfo.cs
+/Users/oicram/faculdade/poo_c#/class_produto_estoque/bin/Debug/netcoreapp2.0/class_produto_estoque.deps.json
+/Users/oicram/faculdade/poo_c#/class_produto_estoque/bin/Debug/netcoreapp2.0/class_produto_estoque.runtimeconfig.json
+/Users/oicram/faculdade/poo_c#/class_produto_estoque/bin/Debug/netcoreapp2.0/class_produto_estoque.runtimeconfig.dev.json
+/Users/oicram/faculdade/poo_c#/class_produto_estoque/bin/Debug/netcoreapp2.0/class_produto_estoque.dll
+/Users/oicram/faculdade/poo_c#/class_produto_estoque/bin/Debug/netcoreapp2.0/class_produto_estoque.pdb
+/Users/oicram/faculdade/poo_c#/class_produto_estoque/obj/Debug/netcoreapp2.0/class_produto_estoque.dll
+/Users/oicram/faculdade/poo_c#/class_produto_estoque/obj/Debug/netcoreapp2.0/class_produto_estoque.pdb
