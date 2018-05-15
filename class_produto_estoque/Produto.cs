@@ -6,9 +6,27 @@ namespace class_produto_estoque
 
     class Produto
     {
-        public string nome;
-        public double preco;
-        public int quantidadeEmEstoque;
+        // encapsulamento private
+        // sem descrever o tipo e o mesmo que private 
+        public string nome { get; private set; }
+        public double preco {get; private set; }
+        public int quantidadeEmEstoque {get; private set; }
+        
+        
+
+        public Produto(string nome, double preco, int quantidadeEmEstoque)
+        {
+            this.nome = nome;
+            this.preco = preco;
+            this.quantidadeEmEstoque = quantidadeEmEstoque;
+        }
+
+        public Produto(string nome, double preco)
+        {
+            this.nome = nome;
+            this.preco = preco;
+            this.quantidadeEmEstoque = 0;
+        }
 
 
         public override string ToString() 
@@ -42,6 +60,8 @@ namespace class_produto_estoque
             }
             
         }
+
+
 
     }
 }

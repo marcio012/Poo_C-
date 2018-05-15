@@ -8,17 +8,20 @@ namespace class_produto_estoque
         static void Main(string[] args)
         {
             Produto P;
-            P = new Produto();
+            // P = new Produto();
 
             Console.WriteLine("Digite os dados do Produtos: ");
             Console.Write("Nome: ");
-            P.nome = Console.ReadLine();
+            string nome = Console.ReadLine();
 
             Console.Write("Preço: ");
-            P.preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.Write("Quantidade em Estoque: ");
-            P.quantidadeEmEstoque = int.Parse(Console.ReadLine());
+            int quantidadeEmEstoque = int.Parse(Console.ReadLine());
+
+            // contrutor 
+            P = new Produto(nome, preco, quantidadeEmEstoque);
 
             // imprime na tela
             // Console.WriteLine("Você Digitou: " 
@@ -41,6 +44,8 @@ namespace class_produto_estoque
             P.realizarSaida(qte);
 
 
+            // P.quantidadeEmEstoque = 20;
+            
             Console.WriteLine();
             Console.WriteLine("Dados autualizados: " + P);
             
