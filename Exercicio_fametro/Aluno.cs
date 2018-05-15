@@ -1,4 +1,5 @@
 using System;
+// using System.Globaization;
 
 namespace Exercicio_fametro
 {
@@ -6,7 +7,29 @@ namespace Exercicio_fametro
     {
         public string nomeAluno; 
         public int matricula;
-        public int cpf;
+        public string cpf;
+
+        // construtor
+        public Aluno()
+        {
+
+        }
+
+        // construtor 
+        public Aluno(string nomeAluno, int matricula) 
+        {
+            this.nomeAluno = nomeAluno;
+            this.matricula = matricula;
+        }
+
+        // construtor 2
+        public Aluno(string nomeAluno, string cpf)
+        {
+            this.nomeAluno = nomeAluno;
+            this.cpf = cpf;
+        }
+
+
 
         public override string ToString()
         {
@@ -17,6 +40,8 @@ namespace Exercicio_fametro
                 + cpf
                 + ".";
         }
+
+       
 
     }
 }
