@@ -1,0 +1,11 @@
+/Users/oicram/faculdade/poo_c#/exercicio_fametro_quetao3/obj/Debug/netcoreapp2.0/exercicio_fametro_quetao3.csprojAssemblyReference.cache
+/Users/oicram/faculdade/poo_c#/exercicio_fametro_quetao3/obj/Debug/netcoreapp2.0/exercicio_fametro_quetao3.csproj.CoreCompileInputs.cache
+/Users/oicram/faculdade/poo_c#/exercicio_fametro_quetao3/obj/Debug/netcoreapp2.0/exercicio_fametro_quetao3.AssemblyInfoInputs.cache
+/Users/oicram/faculdade/poo_c#/exercicio_fametro_quetao3/obj/Debug/netcoreapp2.0/exercicio_fametro_quetao3.AssemblyInfo.cs
+/Users/oicram/faculdade/poo_c#/exercicio_fametro_quetao3/bin/Debug/netcoreapp2.0/exercicio_fametro_quetao3.deps.json
+/Users/oicram/faculdade/poo_c#/exercicio_fametro_quetao3/bin/Debug/netcoreapp2.0/exercicio_fametro_quetao3.runtimeconfig.json
+/Users/oicram/faculdade/poo_c#/exercicio_fametro_quetao3/bin/Debug/netcoreapp2.0/exercicio_fametro_quetao3.runtimeconfig.dev.json
+/Users/oicram/faculdade/poo_c#/exercicio_fametro_quetao3/bin/Debug/netcoreapp2.0/exercicio_fametro_quetao3.dll
+/Users/oicram/faculdade/poo_c#/exercicio_fametro_quetao3/bin/Debug/netcoreapp2.0/exercicio_fametro_quetao3.pdb
+/Users/oicram/faculdade/poo_c#/exercicio_fametro_quetao3/obj/Debug/netcoreapp2.0/exercicio_fametro_quetao3.dll
+/Users/oicram/faculdade/poo_c#/exercicio_fametro_quetao3/obj/Debug/netcoreapp2.0/exercicio_fametro_quetao3.pdb
