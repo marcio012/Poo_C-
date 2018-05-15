@@ -1,0 +1,11 @@
+/Users/oicram/faculdade/poo_c#/poo_conceito_estrutura/obj/Debug/netcoreapp2.0/poo_conceito_estrutura.csprojAssemblyReference.cache
+/Users/oicram/faculdade/poo_c#/poo_conceito_estrutura/obj/Debug/netcoreapp2.0/poo_conceito_estrutura.csproj.CoreCompileInputs.cache
+/Users/oicram/faculdade/poo_c#/poo_conceito_estrutura/obj/Debug/netcoreapp2.0/poo_conceito_estrutura.AssemblyInfoInputs.cache
+/Users/oicram/faculdade/poo_c#/poo_conceito_estrutura/obj/Debug/netcoreapp2.0/poo_conceito_estrutura.AssemblyInfo.cs
+/Users/oicram/faculdade/poo_c#/poo_conceito_estrutura/bin/Debug/netcoreapp2.0/poo_conceito_estrutura.deps.json
+/Users/oicram/faculdade/poo_c#/poo_conceito_estrutura/bin/Debug/netcoreapp2.0/poo_conceito_estrutura.runtimeconfig.json
+/Users/oicram/faculdade/poo_c#/poo_conceito_estrutura/bin/Debug/netcoreapp2.0/poo_conceito_estrutura.runtimeconfig.dev.json
+/Users/oicram/faculdade/poo_c#/poo_conceito_estrutura/bin/Debug/netcoreapp2.0/poo_conceito_estrutura.dll
+/Users/oicram/faculdade/poo_c#/poo_conceito_estrutura/bin/Debug/netcoreapp2.0/poo_conceito_estrutura.pdb
+/Users/oicram/faculdade/poo_c#/poo_conceito_estrutura/obj/Debug/netcoreapp2.0/poo_conceito_estrutura.dll
+/Users/oicram/faculdade/poo_c#/poo_conceito_estrutura/obj/Debug/netcoreapp2.0/poo_conceito_estrutura.pdb
