@@ -1,0 +1,11 @@
+/Users/oicram/faculdade/poo_c#/Exercicio_fametro/bin/Debug/netcoreapp2.0/Exercicio_fametro.deps.json
+/Users/oicram/faculdade/poo_c#/Exercicio_fametro/bin/Debug/netcoreapp2.0/Exercicio_fametro.runtimeconfig.json
+/Users/oicram/faculdade/poo_c#/Exercicio_fametro/bin/Debug/netcoreapp2.0/Exercicio_fametro.runtimeconfig.dev.json
+/Users/oicram/faculdade/poo_c#/Exercicio_fametro/bin/Debug/netcoreapp2.0/Exercicio_fametro.dll
+/Users/oicram/faculdade/poo_c#/Exercicio_fametro/bin/Debug/netcoreapp2.0/Exercicio_fametro.pdb
+/Users/oicram/faculdade/poo_c#/Exercicio_fametro/obj/Debug/netcoreapp2.0/Exercicio_fametro.csprojAssemblyReference.cache
+/Users/oicram/faculdade/poo_c#/Exercicio_fametro/obj/Debug/netcoreapp2.0/Exercicio_fametro.csproj.CoreCompileInputs.cache
+/Users/oicram/faculdade/poo_c#/Exercicio_fametro/obj/Debug/netcoreapp2.0/Exercicio_fametro.AssemblyInfoInputs.cache
+/Users/oicram/faculdade/poo_c#/Exercicio_fametro/obj/Debug/netcoreapp2.0/Exercicio_fametro.AssemblyInfo.cs
+/Users/oicram/faculdade/poo_c#/Exercicio_fametro/obj/Debug/netcoreapp2.0/Exercicio_fametro.dll
+/Users/oicram/faculdade/poo_c#/Exercicio_fametro/obj/Debug/netcoreapp2.0/Exercicio_fametro.pdb
